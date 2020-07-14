@@ -1,2 +1,2 @@
-# Summer2020_course
+# Summer2020_courses
 csc5_course_files
